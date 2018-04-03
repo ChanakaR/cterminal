@@ -1,0 +1,14 @@
+{
+  "name": "cterminal",
+  "version": "1.0.0",
+  "description": "terminal application for chanaka's private usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "cterminal"
+  },
+  "author": "chanakar",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^11.0.0"
+  }
+}
