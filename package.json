@@ -4,11 +4,12 @@
   "description": "terminal application for chanaka's private usage",
   "main": "index.js",
   "scripts": {
-    "test": "cterminal"
+    "start": "node index.js"
   },
   "author": "chanakar",
   "license": "ISC",
   "dependencies": {
+    "npm": "^5.8.0",
     "yargs": "^11.0.0"
   }
 }
